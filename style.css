@@ -1,0 +1,26 @@
+h1{
+    color: rgb(187, 255, 0);
+}
+
+h2{
+    color: cyan
+}
+
+h3{
+    color: greenyellow
+}
+
+body{
+    background: url(1.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+
+h4{
+    color: #FFF000
+}
+
+.glance{
+    display:flex;
+    justify-content: space-evenly;
+}
+
